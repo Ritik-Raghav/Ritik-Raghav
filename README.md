@@ -42,6 +42,3 @@ Passionate about building <strong>scalable backend systems</strong>, <strong>clo
   </a>
 </p>
 
----
-
-> 💡 **"Building scalable backend systems one API at a time."**
