@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 
 ## 💫 About Me
 
@@ -19,7 +19,7 @@
 - 🤖 Exploring **AI-powered Applications**
 - 📍 Gurugram, India
 
----
+
 
 ## 💻 Tech Stack
 
@@ -43,7 +43,7 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
+
 
 ## 🌐 Connect With Me
 
